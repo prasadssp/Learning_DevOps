@@ -14,7 +14,7 @@ variable "imageversion" {
   description = "Tag of the image to deploy"
 }
 
-variable "dockerhub-username" {
+variable "dockerhub-Username" {
   description = "DockerHub username"
 }
 
